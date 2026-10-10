@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added the unstable ACP subagent protocol surface: the `subagents` client capability and the `subagent_update` and `session_message` session updates, with wire validation ([#15043](https://github.com/can1357/oh-my-pi/pull/15043) by [@vnguyen42](https://github.com/vnguyen42))
+
 ## [18.8.9] - 2026-10-10
 
 ### Added
